@@ -15,12 +15,12 @@
 	* CS 207 Presentation.pptx
 
 ---
-####Software Requirement :
+#### Software Requirement :
 > To run the code you need to install Arduino UNO, if it is not installed , Click on [Arduino UNO](https://www.arduino.cc/en/software) to Download the software.
 
 ---
 
-####Material Requirement : 
+#### Material Requirement : 
 > * 1 * Arduino UNO and Breadboard 
 > * 1 * Blue and Red LED 
 > * 1 * Laser 
@@ -39,7 +39,7 @@ To see the material and their use visit : [Material and their use.pdf](https://d
 ---
 
 
-####Build Instruction :
+#### Build Instruction :
 > Place all the connection properly, check whether the wires are connected to the same pin number as given in the code otherwise you will get errors. 
 
 >**NOTE:** If you are connecting the Laser light separately then use proper power supply.(5v recommended).Giving power from the Arduino will work.
@@ -49,13 +49,13 @@ To see the material and their use visit : [Material and their use.pdf](https://d
 ---
 
 
-####Working Demo :
+#### Working Demo :
 > To see the working demonstration  [CLICK HERE](https://youtu.be/FRWScmtj_hE)
 
 ---
 
 
-####Team Contribution :
+#### Team Contribution :
 
 1. Jay Patel    		 :- video editing, demonstration, write-up,scripting
 1. Jaivik Patel 	 :-demonstration, model making, GitHub, circuit building
