@@ -6,7 +6,7 @@
 ---
 
 
-*Laser security system* is a powerful security system which you can build using the Arduino that can be used to protect our offices, banks and museums from stealing the important/precious things.
+*Laser security system* is a powerful security system which you can build using the Arduino UNO and breadboard, this project idea can be used to protect our offices, banks and museums from stealing the important/precious things.
 
 ---
 * Repository contents :
@@ -68,7 +68,7 @@ To see the material and their use visit : [Material and their use.pdf](https://d
 
 
 #### Contact  Info :-
->If you find any difficulty Please feel free to contact  : [EMAIL](tanujjoshi147@gmail.com)
+>If you find any difficulty Please feel free to contact  : tanujjoshi147@gmail.com
 
 
 
