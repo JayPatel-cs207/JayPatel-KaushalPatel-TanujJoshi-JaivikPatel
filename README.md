@@ -16,7 +16,7 @@
 
 ---
 #### Software Requirement :
-> To run the code you need to install Arduino UNO, if it is not installed , Click on [Arduino UNO](https://www.arduino.cc/en/software) to Download the software.
+> To run the code you need to install Arduino UNO, if it is not installed , Click on [Arduino IDE](https://www.arduino.cc/en/software) to Download the software.
 
 ---
 
